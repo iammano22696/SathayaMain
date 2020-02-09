@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48985" started-at="2020-02-09T06:00:50Z" finished-at="2020-02-09T06:01:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="48985" started-at="2020-02-09T06:00:50Z" finished-at="2020-02-09T06:01:39Z">
+      <class name="com.sathya.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setintialization()[pri:0, instance:com.sathya.qa.testcases.HomePageTest@4c40b76e]" name="setintialization" is-config="true" duration-ms="15425" started-at="2020-02-09T11:30:50Z" finished-at="2020-02-09T11:31:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setintialization -->
+        <test-method status="PASS" signature="logotest()[pri:0, instance:com.sathya.qa.testcases.HomePageTest@4c40b76e]" name="logotest" duration-ms="188" started-at="2020-02-09T11:31:06Z" finished-at="2020-02-09T11:31:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logotest -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.sathya.qa.testcases.HomePageTest@4c40b76e]" name="quit" is-config="true" duration-ms="660" started-at="2020-02-09T11:31:06Z" finished-at="2020-02-09T11:31:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setintialization()[pri:0, instance:com.sathya.qa.testcases.HomePageTest@4c40b76e]" name="setintialization" is-config="true" duration-ms="12131" started-at="2020-02-09T11:31:07Z" finished-at="2020-02-09T11:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setintialization -->
+        <test-method status="PASS" signature="homepagetitletest()[pri:0, instance:com.sathya.qa.testcases.HomePageTest@4c40b76e]" name="homepagetitletest" duration-ms="30" started-at="2020-02-09T11:31:19Z" finished-at="2020-02-09T11:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepagetitletest -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.sathya.qa.testcases.HomePageTest@4c40b76e]" name="quit" is-config="true" duration-ms="662" started-at="2020-02-09T11:31:19Z" finished-at="2020-02-09T11:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="setintialization()[pri:0, instance:com.sathya.qa.testcases.HomePageTest@4c40b76e]" name="setintialization" is-config="true" duration-ms="18327" started-at="2020-02-09T11:31:19Z" finished-at="2020-02-09T11:31:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setintialization -->
+        <test-method status="PASS" signature="home2logintest()[pri:0, instance:com.sathya.qa.testcases.HomePageTest@4c40b76e]" name="home2logintest" duration-ms="873" started-at="2020-02-09T11:31:38Z" finished-at="2020-02-09T11:31:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home2logintest -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.sathya.qa.testcases.HomePageTest@4c40b76e]" name="quit" is-config="true" duration-ms="658" started-at="2020-02-09T11:31:39Z" finished-at="2020-02-09T11:31:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.sathya.qa.testcases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

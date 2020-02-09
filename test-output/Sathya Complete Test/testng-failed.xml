@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sathya Complete Test]">
+  <test name="sathya product test(failed)">
+    <classes>
+      <class name="com.sathya.qa.testcases.ProducttoshippingTest">
+        <methods>
+          <include name="intial"/>
+          <include name="producttoship2"/>
+          <include name="producttoship1"/>
+        </methods>
+      </class> <!-- com.sathya.qa.testcases.ProducttoshippingTest -->
+      <class name="com.sathya.qa.testcases.HomeAppliancesTest">
+        <methods>
+          <include name="refrigeratortest"/>
+          <include name="air_Conditionertest"/>
+          <include name="intial"/>
+          <include name="aircoolertest"/>
+        </methods>
+      </class> <!-- com.sathya.qa.testcases.HomeAppliancesTest -->
+      <class name="com.sathya.qa.testcases.ProductPageTest">
+        <methods>
+          <include name="product2"/>
+          <include name="product1"/>
+          <include name="intil"/>
+          <include name="product3"/>
+        </methods>
+      </class> <!-- com.sathya.qa.testcases.ProductPageTest -->
+      <class name="com.sathya.qa.testcases.LoginpageTest">
+        <methods>
+          <include name="login"/>
+          <include name="setintialization"/>
+          <include name="newregister"/>
+        </methods>
+      </class> <!-- com.sathya.qa.testcases.LoginpageTest -->
+      <class name="com.sathya.qa.testcases.AudioVideoTest">
+        <methods>
+          <include name="hometheatre"/>
+          <include name="intil"/>
+          <include name="led"/>
+          <include name="playstation"/>
+        </methods>
+      </class> <!-- com.sathya.qa.testcases.AudioVideoTest -->
+      <class name="com.sathya.qa.testcases.HomePageTest">
+        <methods>
+          <include name="home2logintest"/>
+          <include name="setintialization"/>
+          <include name="homepagetitletest"/>
+          <include name="logotest"/>
+        </methods>
+      </class> <!-- com.sathya.qa.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- sathya product test(failed) -->
+</suite> <!-- Failed suite [Sathya Complete Test] -->
